@@ -29,12 +29,10 @@ The objective was to perform memory forensics on the captured RAM dump and revie
 ## 🖼️ Evidence Screenshots
 | Evidence | Description |
 |----------|-------------|
-| ![Case Study Page 1](case_study_page_1.png) | Executive summary of the case |
-| ![Case Study Page 4](case_study_page_4.png) | Volatility `pslist` showing malicious process |
-| ![Case Study Page 6](case_study_page_6.png) | VirusTotal result confirming malware |
-| ![Case Study Page 10](case_study_page_10.png) | Incident timeline and key findings |
-
-*(More screenshots available in this folder)*
+| ![Case Study Page 1] | Executive summary of the case |
+| ![Case Study Page 4] | Volatility `pslist` showing malicious process |
+| ![Case Study Page 6] | VirusTotal result confirming malware |
+| ![Case Study Page 10] | Incident timeline and key findings |
 
 ## 🛡️ Recommendations
 - Disable **Wdigest** authentication across all systems  
@@ -44,6 +42,6 @@ The objective was to perform memory forensics on the captured RAM dump and revie
 - Implement **network monitoring** and SIEM alerts for RDP & PowerShell usage  
 
 ## 📂 Files
-- `Case Study 3.pdf` – Full investigation report  
-- `case_study_page_X.png` – Evidence screenshots
+- `Digital Forensics Case Study.pdf` – Full investigation report  
+- `Case Study Screenshot Folder` – Evidence screenshots
 
